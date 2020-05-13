@@ -88,15 +88,15 @@ L’utilisateur peut aussi choisi un programme d’entrainement sportif selon se
    Les délais sont estimés vers 30 jours.
    
    ## 9 - USE CASE:
-   ![](https://github.com/Zahidi-reda/MyFitBody-p4/blob/master/FitnessZoneUseCase.png)
+   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/FitnessZoneUseCase.png)
    
    ## 10 - Diagramme de class :
-   ![](https://github.com/Zahidi-reda/MyFitBody-p4/blob/master/diagramme%20de%20class.PNG)
+   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/diagramme%20de%20class.PNG)
    
    ## 11 - Diagramme de séquence:
-   ![](https://github.com/Zahidi-reda/MyFitBody-p4/blob/master/diagramme%20de%20s%C3%A9quence1.PNG)
-   ![](https://github.com/Zahidi-reda/MyFitBody-p4/blob/master/diagramme%20de%20s%C3%A9quence2.PNG)
-   ![](https://github.com/Zahidi-reda/MyFitBody-p4/blob/master/diagramme%20de%20s%C3%A9quence3.PNG)
+   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/diagramme%20de%20s%C3%A9quence1.PNG)
+   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/diagramme%20de%20s%C3%A9quence2.PNG)
+   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/diagramme%20de%20s%C3%A9quence3.PNG)
 
    //////////////////////////////////////////////////////////////////////////////////////////////
    
@@ -114,6 +114,6 @@ L’utilisateur peut aussi choisi un programme d’entrainement sportif selon se
    -Partie LOGIQUE qui contient des traitements hors métiers
    
    ## - Les API à consommer par Postman :
-  ![](https://github.com/Zahidi-reda/MyFitBody-p4/blob/master/postmane1.PNG)
-  ![](https://github.com/Zahidi-reda/MyFitBody-p4/blob/master/postmane2.PNG)
-  ![](https://github.com/Zahidi-reda/MyFitBody-p4/blob/master/postmane3.PNG)
+  ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/postmane1.PNG)
+  ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/postmane2.PNG)
+  ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/postmane3.PNG)
