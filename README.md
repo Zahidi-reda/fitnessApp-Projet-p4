@@ -1,7 +1,6 @@
 # Cahier des charges
 
   ## 1 - Contexte et définition du projet:
-  
     D’après l’Organisation Mondiale de la santé, 39% des adultes âgés de 18 ans et plus étaient en surpoids en 2016 et 13% étaient obèses. C'est pour cela nous choisissons ce projet pour répondre au besoin des gens qui cherchent des régimes et des exercices de sport pour garder leurs santés.
 
     
@@ -117,3 +116,10 @@ L’utilisateur peut aussi choisi un programme d’entrainement sportif selon se
   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/postmane1.PNG)
   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/postmane2.PNG)
   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/postmane3.PNG)
+  
+  ## - Partie Front End du projet (Angular)
+  ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/front1.jpg)
+  ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/front2.jpg)
+  ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/front4.jpg)
+  ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/front3.jpg)
+  
