@@ -122,4 +122,4 @@ L’utilisateur peut aussi choisi un programme d’entrainement sportif selon se
   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/front2.jpg)
   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/front4.jpg)
   ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/front3.jpg)
-  
+  ![](https://github.com/Zahidi-reda/fitnessApp/blob/master/img/5018cf2b-8912-485e-9c0b-0a929abd244c.jpg)
